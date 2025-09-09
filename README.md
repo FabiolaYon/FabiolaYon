@@ -1,63 +1,56 @@
 # Hola, soy Fabiola 👋🏻
-<!-- 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
- -->
-</br>
-</br>
-</br>
 
+💻 **Programadora Junior** en desarrollo de aplicaciones web.  
+🔐 Futura especialista en **Ciberseguridad** (Máster en curso).  
+🚀 Apasionada por la tecnología, la seguridad informática y el aprendizaje constante.  
 
-# About ME 😊 :
+---
 
-### - I'm doing a vocational training of Web App Developer (Little learner XD)
-<!-- 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
- -->
-### - Learning :
-- 👩🏻‍💻 Java
-- 👩🏻‍💻 TypeScript
-- 👩🏻‍💻 React
-- 👩🏻‍💻 SQL
-- 👩🏻‍💻 PHP
-- 👩🏻‍💻 HTML
-- 👩🏻‍💻 CSS
-- 👩🏻‍💻 JavaScript
+## 👩🏻‍💻 Sobre mí
 
-</br>
-</br>
-</br>
+- Actualmente trabajo con **JavaScript, React, HTML, CSS y SQL**.  
+- Experiencia en desarrollo backend con **PostgreSQL, Supabase** y **REST APIs**.  
+- Uso habitual de herramientas de desarrollo: **Git/GitHub, Docker, Postman, VS Code**.  
+- En proceso de especialización en **Ciberseguridad, Red Team y Seguridad 5G**.  
 
-<!-- 
-# Contact Me 💬:
- -->
+Me considero una persona **organizada, adaptable y con capacidad de resolución de problemas**, con experiencia previa en atención al cliente y gestión documental.  
 
-<p>
- </br>
-<!-- 
+---
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+## 📚 Formación
 
- -->
-....
+🎓 **Máster en Ciberseguridad** – DIGITECH (En curso)  
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Web** – IES Pío Baroja (Finalización 2025)  
+🎓 **ESOL Horizons Level 1** – Kingston College, Reino Unido  
 
- </p>
- 
+---
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+## 🛠️ Tecnologías y Conocimientos
 
-<!-- 
+### Lenguajes y frameworks
+- Java · JavaScript · TypeScript · PHP · SQL  
+- React · Spring · Bootstrap · HTML · CSS  
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-  -->
+### Ciberseguridad
+- Seguridad móvil y 5G  
+- Red Team · Malware · Hardware Hacking  
+
+### Herramientas
+- Git / GitHub · Docker · Postman · MySQL Workbench · Visual Studio Code · Eclipse  
+
+---
+
+## 🌍 Idiomas
+- Español: **Nativo**  
+- Inglés: **Nivel alto**  
+- Italiano: **Nivel bajo**  
+
+---
+
+## ✨ Objetivo
+Seguir desarrollando mi carrera como **programadora especializada en ciberseguridad**, aportando soluciones innovadoras y seguras en el mundo digital.  
+
+---
+
+📫 **Conectemos:**  
+[LinkedIn](#) · [GitHub](https://github.com/TU-USUARIO)
