@@ -13,8 +13,6 @@
 - Uso habitual de herramientas de desarrollo: **Git/GitHub, Docker, Postman, VS Code**.  
 - En proceso de especialización en **Ciberseguridad, Red Team y Seguridad 5G**.  
 
-Me considero una persona **organizada, adaptable y con capacidad de resolución de problemas**, con experiencia previa en atención al cliente y gestión documental.  
-
 ---
 
 ## 📚 Formación
@@ -43,14 +41,10 @@ Me considero una persona **organizada, adaptable y con capacidad de resolución 
 ## 🌍 Idiomas
 - Español: **Nativo**  
 - Inglés: **Nivel alto**  
-- Italiano: **Nivel bajo**  
 
 ---
 
 ## ✨ Objetivo
-Seguir desarrollando mi carrera como **programadora especializada en ciberseguridad**, aportando soluciones innovadoras y seguras en el mundo digital.  
+Seguir desarrollando mi carrera como **programadora especializada en ciberseguridad**
 
 ---
-
-📫 **Conectemos:**  
-[LinkedIn](#) · [GitHub](https://github.com/TU-USUARIO)
